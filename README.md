@@ -7,4 +7,4 @@ Currently on the Sven Co-op Team (Artist, Scripter, Tester).
 | --- | --- | --- |
 | Insurgency Project | https://github.com/KernCore91/-SC-Insurgency-Weapons-Project | Weapons Plugin/Map Script that adds a lot of weapons that uses the Insurgency 2014 Skeleton (With permission from NWI) into Sven Co-op. |
 | Cry of Fear Project | https://github.com/KernCore91/-SC-Cry-of-Fear-Weapons-Project | Weapons Plugin/Map Script that features weapons from Cry of Fear (Animated by Sporkeh with permission from himself) into Sven Co-op. |
-| Counter-Strike 1.6 Project | https://github.com/KernCore91/-SC-Counter-Strike-1.6-Weapons-Project | Plugin/Map Script that adds Counter-Strike 1.6 weapons in Sven Co-op. |
+| Counter-Strike 1.6 Project | https://github.com/KernCore91/-SC-Counter-Strike-1.6-Weapons-Project | Weapons Plugin/Map Script that adds Counter-Strike 1.6 weapons into Sven Co-op. |
