@@ -1,5 +1,6 @@
 Author of some Sven Co-op weapon plugins out there.  
 Currently on the Sven Co-op Team (Artist, Scripter, Tester).  
+If you paid for anything related to my content, you have been scammed.  
 
 # Sven Co-op Plugins
 
